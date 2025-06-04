@@ -34,7 +34,7 @@ nav{
 .logo{
     width: 140px;
     font-size:40px ;
-    color: #ff004f;
+    color: #fff;
 }
 
 nav ul li{
@@ -337,7 +337,7 @@ nav .fa-solid{
 
  @media only screen and (max-width:600px){
     #header{
-        background-image: url(Images/pexels-bapak-moto-2150116313-31332921.jpg);
+        background-image: url(Images/black.jpg);
     }
     .header-text{
         margin-top: 100%;
